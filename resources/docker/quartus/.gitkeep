@@ -1,3 +1,0 @@
-# Drop the optional Quartus Lite installer (QuartusLiteSetup-*.run) here, then
-# build with --build-arg QUARTUS_INSTALLER=<filename>.run. This directory must
-# exist for the Dockerfile's `COPY quartus/` step even when no installer is used.
